@@ -1,5 +1,5 @@
 # payday-friday
-Payday friday calculator
+Payday friday calculator. If you're paid every last friday of the month, this is for you.
 
 ## Installing
 
